@@ -54,6 +54,11 @@
       <version>4.5.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>org.telegram</groupId>
+      <artifactId>telegrambots-meta</artifactId>
+      <version>6.5.0</version>
+    </dependency>
   </dependencies>
 
   <build>

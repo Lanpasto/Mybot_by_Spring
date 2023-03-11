@@ -1,4 +1,5 @@
 package com.bot.service;
 
-public class BotService {
+public interface BotService {
+    void init();
 }

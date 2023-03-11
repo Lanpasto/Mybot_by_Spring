@@ -1,4 +1,7 @@
 package com.bot.service;
 
-public class UpdateService {
+import com.example.bot.model.Update;
+
+public interface UpdateService {
+    void processUpdate(Update update);
 }
